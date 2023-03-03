@@ -6,9 +6,9 @@ import time
 
 last_price = 1
 
-bot = telebot.TeleBot('5294703958:AAG1-Ggk4-C2qaa99PiPiN0fraj5rlK7QlE')
-api_key = 'TyzeDcleTpIf0kUveTKuBPiEsTwGRCw7NRJ6z0GINR7lRfGKn8YYErzlSI6QHJn8'
-api_secret = 'oYRTToPhoM9OLgXLfbB13rzGk12mpbFRWkuPLmoiXQiUbRttRLjdNZSOHoomWHTc'
+bot = telebot.TeleBot('')
+api_key = ''
+api_secret = ''
 
 client = Client(api_key, api_secret)
 
