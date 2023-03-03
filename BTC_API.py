@@ -9,8 +9,8 @@ import threading
 from playsound import playsound
 
 
-api_key = 'TyzeDcleTpIf0kUveTKuBPiEsTwGRCw7NRJ6z0GINR7lRfGKn8YYErzlSI6QHJn8'
-api_secret = 'oYRTToPhoM9OLgXLfbB13rzGk12mpbFRWkuPLmoiXQiUbRttRLjdNZSOHoomWHTc'
+api_key = ''
+api_secret = ''
 client = Client(api_key, api_secret)
 
 last_time = 0
